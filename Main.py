@@ -7,5 +7,3 @@ class Main():
 
 instance = Main('Hi')
 print(instance.output())
-print(1)
-#gj
