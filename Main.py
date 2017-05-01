@@ -1,5 +1,5 @@
-class Main():
-    def __init__(self,greeting):
+class Main:
+    def __init__(self, greeting):
         self.greeting = greeting
 
     def output(self):
@@ -8,4 +8,3 @@ class Main():
 instance = Main('Hi')
 print(instance.output())
 ##############################
-#############################
