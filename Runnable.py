@@ -16,4 +16,5 @@ def open_bat(path):
     time.sleep(5)
     object.kill()
 
+
 open_bat('cut.bat')
