@@ -20,3 +20,6 @@ while True:
             remove(FILE)
             print('Miner is restarting: '.format(datetime.datetime.now()))
             break
+        else:
+            pass
+
