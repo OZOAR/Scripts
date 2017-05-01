@@ -7,3 +7,5 @@ class Main():
 
 instance = Main('Hi')
 print(instance.output())
+##############################
+#############################
