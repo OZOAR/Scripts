@@ -8,5 +8,4 @@ def open_bat(path):
     print('{} Opened'.format(path))
     time.sleep(5)
     object.kill()
-
 open_bat('cut.bat')
