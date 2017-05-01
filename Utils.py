@@ -21,4 +21,3 @@ def time_sec_ago(delta):
     t = time()-delta
     return strftime('%H:%M:%S', localtime(t))
 
-
