@@ -19,6 +19,7 @@ def get_last_line(filename, encod='ansi'):
         return line[::-1]
 
 
+
 def time_sec_ago(delta):
     """Accepts <delta> seconds and returns
     current time - delta"""
